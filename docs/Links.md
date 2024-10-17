@@ -1,1 +1,2 @@
 - Spring Boot and GraphQL Tutorial | 2024 (https://www.youtube.com/watch?v=uNB2N_w_ypo)
+- https://github.com/amigoscode/spring-boot-graphql
